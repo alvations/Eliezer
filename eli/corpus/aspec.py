@@ -1,3 +1,3 @@
 # -*- coding: utf-8 -*-
-# Europarl corpus reader
+# ASPEC corpus reader (JPN, ENG, CMN)
 # Authors: Liling Tan
