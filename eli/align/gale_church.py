@@ -6,7 +6,6 @@
 import math, functools, io, sys
 from itertools import groupby, izip
 
-
 import numpy as np
 
 class LanguageIndependent():
